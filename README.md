@@ -1,0 +1,2 @@
+# FISI2029-201910
+La ultima grafica se puede ver que conserva la forma original de la figura pues solamente la suaviza eliminando el ruido. En la grafica de la correlacion del ruido se puede ver que para frecuencias grandes, la correlacion tiene a cero, lo que siginifica que en efecto lo que se filtra es el ruido, pues el ruido no deberia estar correlacionado con si mismo.
